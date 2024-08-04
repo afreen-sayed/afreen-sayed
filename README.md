@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @afreen-sayed
+- 👀 I’m interested in web development, data analytics, and the latest tech trends.
+- 🌱 I’m currently learning full-stack development, focusing on JavaScript, React, and backend technologies.
+- 💞️ I’m looking to collaborate on open-source projects, innovative web applications, and data-driven solutions.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/afreen-sayed-developer/) | [Email](mailto:afreennisha402@gmail.com)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love exploring new programming languages and dabble in creative writing!
